@@ -1,6 +1,5 @@
 import { Router } from 'express';
 
-import CreateUserService from '../services/CreateUserService';
 import AuthenticateUserService from '../services/AuthenticateUserSession';
 // Rota: Receberuma requisição, chamar outro arquivo, devolver uma resposta
 // SoC:
